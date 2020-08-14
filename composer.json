@@ -1,0 +1,16 @@
+{
+    "name": "ejemplo/proyecto",
+    "description": "Aplicacion react native",
+    "authors": [
+        {
+            "name": "Luis Samaniego",
+            "email": "luisesamaniego3@gmail.com"
+        }
+    ],
+    "require": {
+        "nelmio/cors-bundle": "^2.0"
+    },
+    "require-dev": {
+        "symfony/web-server-bundle": "^4.4.2"
+    }
+}
